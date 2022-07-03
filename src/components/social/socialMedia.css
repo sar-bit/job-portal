@@ -1,0 +1,16 @@
+.media-icon{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+}
+
+.media-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

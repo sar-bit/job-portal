@@ -1,0 +1,35 @@
+.list-items{
+    margin-top: 5px;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+    padding: 10px;
+}
+.list-items:hover{
+background-color:#f4f4f4;
+}
+
+.apply-btn{
+    background-color: white;
+    width: 80px;
+    height: 30px;
+    /* border: none; */
+    border-radius: 15px;
+    color: #4b96e6;
+    font-weight: 600;
+    font-size: 13px;
+    border-color: #4b96e6;
+    border-width: 0.5px;
+}
+
+.body-container {
+    width: 100%;
+
+}
+
+.btn-position{
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
